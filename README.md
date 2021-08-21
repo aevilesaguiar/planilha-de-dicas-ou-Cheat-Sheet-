@@ -1,0 +1,2 @@
+# planilha-de-dicas-ou-Cheat-Sheet-
+Agora que vimos alguns conceitos e operadores, vamos propor que você faça uma espécie de planilha de dicas ou "Cheat Sheet", no qual você terá os operadores separados por tipo, e com um exemplo de qual é a sua função. Aqui, damos um pouco da estrutura de como poderia ser, com os exemplos de operadores matemáticos que já vimos e trabalhamos na semana passada. Você pode copiar este esqueleto disponibilizado, ou sinta-se à vontade para fazer um com sua marca ou estrutura favorita!
